@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @antbreach, I work as a Senior Analyst at @centreforcities
-- 👀 I’m interested in urban economics, British housing and planning policy, and using software to answer public policy problems
+- 👋 Hi, I’m @antbreach, I work as an Associate Director at @centreforcities
+- 👀 I’m interested in urban economics, British housing and planning policy, and local fiance and local government reform
 - 🔨 I have experience using STATA, R, and QGIS
 - 🌱 I’m currently learning how to use Github and modern software development tools to do research on British city economies
-- 💞️ I’m looking to collaborate on all of the above!
 - 📫 How to reach me - either a.breach@centreforcities.org or DM me on twitter @antbreach
 
 <!---
